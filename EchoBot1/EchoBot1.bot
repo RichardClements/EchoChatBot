@@ -1,0 +1,19 @@
+{
+    "name": "EchoBot1",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "name": "mwiEchoBot",
+            "tenantId": "0b5ac31e-e17a-4021-9d04-550f86320765",
+            "subscriptionId": "4b805d49-c3ad-490d-bca6-113cc1792e01",
+            "resourceGroup": "mwiTraining",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "caaf814f-de0e-4015-8633-8e5b4ad41480",
+            "appPassword": "",
+            "id": "1"
+        }
+    ],
+    "padlock": "WK9MSR4BUn3GB7cUR7SoWQ==!VUMWynL66Q7kG23hQuOQnXiLwhUlx2RI/KT5tH+U2cwaMOB/Ab6Y6EDn6goskIjz",
+    "version": "2.0"
+}
